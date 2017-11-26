@@ -17,3 +17,8 @@
 - octal file permissions surprised me
 - i'll use information about private keys, owners and groups, file permitions etc..
 ![Configuring Linux Web Servers screenshot](/task_1/configuring-linux-web-servers.png)
+3. Networking for Web Developers
+- almost all inforation was new for me
+- DNS, difference between IPv4 and IPv6
+- ping, hosts, ports and some new features..
+![Networking for Web Developers screenshot](/task_1/networking-for-web-developers.png)
