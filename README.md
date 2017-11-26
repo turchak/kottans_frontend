@@ -14,6 +14,6 @@
 ![Linux Command Line screenshot](/task_1/linux-command-line-screenshot.png)
 2. Configuring Linux Web Servers
 - about linux security was new for me
-- octal File Permissions surprised me
+- octal file permissions surprised me
 - i'll use information about private keys, owners and groups, file permitions etc..
-![Configuring Linux Web Servers screenshot](/task_1/configuring-linux-web-servers)
+![Configuring Linux Web Servers screenshot](/task_1/configuring-linux-web-servers.png)
