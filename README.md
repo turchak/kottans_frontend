@@ -12,3 +12,8 @@
 - **Globbing** surprised me
 - i'll use commands for navigation in file system. Create, copy, move, delete categories, files and learn new commands with using interesting command `man`
 ![Linux Command Line screenshot](/task_1/linux-command-line-screenshot.png)
+2. Configuring Linux Web Servers
+- about linux security was new for me
+- octal File Permissions surprised me
+- i'll use information about private keys, owners and groups, file permitions etc..
+![Configuring Linux Web Servers screenshot](/task_1/configuring-linux-web-servers)
