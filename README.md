@@ -11,22 +11,27 @@
 - linux file system, **VirtualBox**, **Vagrant** and some commands was new for me
 - **Globbing** surprised me
 - i'll use commands for navigation in file system. Create, copy, move, delete categories, files and learn new commands with using interesting command `man`
-![Linux Command Line screenshot](/task_1/linux-command-line.png)
+![Linux Command Line screenshot](/task_01/linux-command-line.png)
 2. Configuring Linux Web Servers
 - about linux security was new for me
 - octal file permissions surprised me
 - i'll use information about private keys, owners and groups, file permitions etc..
-![Configuring Linux Web Servers screenshot](/task_1/configuring-linux-web-servers.png)
+![Configuring Linux Web Servers screenshot](/task_01/configuring-linux-web-servers.png)
 3. Networking for Web Developers
 - almost all inforation was new for me
 - **DNS**, difference between **IPv4** and **IPv6**
 - ping, hosts, ports and some new features..
-![Networking for Web Developers screenshot](/task_1/networking-for-web-developers.png)
+![Networking for Web Developers screenshot](/task_01/networking-for-web-developers.png)
 
 
 ## Task 2 ##
 1. Version Control with Git
 - some new flags, for example `--oneline`, `--decorate`, `--graph`, `fetch` and others
 - write commit message with editor surprised me
-- defenatly `git log --oneline` will be my favorite command in git
-![Version Control with Git screenshot](/task_1/version-control-with-git.png)
+- definitely `git log --oneline` will be my favorite command in git
+![Version Control with Git screenshot](/task_02/version-control-with-git.png)
+2. GitHub & Collaboration
+- New information for me `git fetch`
+- Before i did't know about `git rebase` and `git push -f`
+- Things before this line, which help me with collaboration..
+![GitHub & Collaboration screeenshot](/task_02/github-collaboration.png)
