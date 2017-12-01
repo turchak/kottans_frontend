@@ -7,7 +7,7 @@
 
 
 ## Task 1 ##
-1. Linux Command Line Basics 
+1. Linux Command Line Basics
 - linux file system, **VirtualBox**, **Vagrant** and some commands was new for me
 - **Globbing** surprised me
 - i'll use commands for navigation in file system. Create, copy, move, delete categories, files and learn new commands with using interesting command `man`
@@ -35,3 +35,11 @@
 - Before i did't know about `git rebase` and `git push -f`
 - Things before this line, which help me with collaboration..
 ![GitHub & Collaboration screeenshot](/task_02/github-collaboration.png)
+
+
+## Task 3 ##
+1. Intro to HTML & CSS
+- new for me it's some information about HEX ([https://en.wikipedia.org/wiki/Hexadecimal](https://en.wikipedia.org/wiki/Hexadecimal))
+- Udacity Feedback Chrome Extension surprised me:)
+- will use interesting links [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html) and [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
+![HTML and CSS Syntax screeenshot](/task_03/html-and-css-syntax.png)
