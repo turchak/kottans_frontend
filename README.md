@@ -10,12 +10,12 @@
 1. Linux Command Line Basics
 - linux file system, **VirtualBox**, **Vagrant** and some commands was new for me
 - **Globbing** surprised me
-- i'll use commands for navigation in file system. Create, copy, move, delete categories, files and learn new commands with using interesting command `man`
+- I'll use commands for navigation in file system. Create, copy, move, delete categories, files and learn new commands with using interesting command `man`
 ![Linux Command Line screenshot](/task_01/linux-command-line.png)
 2. Configuring Linux Web Servers
 - about linux security was new for me
 - octal file permissions surprised me
-- i'll use information about private keys, owners and groups, file permitions etc..
+- I'll use information about private keys, owners and groups, file permitions etc..
 ![Configuring Linux Web Servers screenshot](/task_01/configuring-linux-web-servers.png)
 3. Networking for Web Developers
 - almost all inforation was new for me
@@ -32,7 +32,7 @@
 ![Version Control with Git screenshot](/task_02/version-control-with-git.png)
 2. GitHub & Collaboration
 - New information for me `git fetch`
-- Before i did't know about `git rebase` and `git push -f`
+- Before I did't know about `git rebase` and `git push -f`
 - Things before this line, which help me with collaboration..
 ![GitHub & Collaboration screeenshot](/task_02/github-collaboration.png)
 
@@ -43,3 +43,10 @@
 - Udacity Feedback Chrome Extension surprised me:)
 - will use interesting links [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html) and [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 ![HTML and CSS Syntax screeenshot](/task_03/html-and-css-syntax.png)
+
+## Task 4 ##
+1. Responsive Web Design Fundamentals
+- some information about responsive patterns was new for me, before I've never heard of this
+- use android dev mode on device surprised me
+- I'll use responsive patters, devtools and flexbox..
+![Responsive Web Design Fundamentals screeenshot](/task_04/responsive-web-design-fundamentals.png)
