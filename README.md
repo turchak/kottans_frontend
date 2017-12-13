@@ -50,3 +50,10 @@
 - use android dev mode on device surprised me
 - I'll use responsive patters, devtools and flexbox..
 ![Responsive Web Design Fundamentals screeenshot](/task_04/responsive-web-design-fundamentals.png)
+
+## Task 5 ##
+1. Intro to JS
+- that was awesome course, so many new information for me, for example `switch`, `.map()`
+- hoisting really surprised me
+- now i really increased my skill in js, and wanna use almost all in practice...
+![Intro to JS screeenshot](/task_05/intro-to-js.png)
