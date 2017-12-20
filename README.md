@@ -81,9 +81,9 @@
 
 ## Task 7 ##
 1. Offline Web Applications
-- it was hard for me to undestend OOP in the beginning. all information was new for me
-- understanding how `this` define in the code, and how work `extend` and `Object.create()`
-- I'll read more information about OOP for better understanding this fundamental principles...
+- that was difficult part of my learning front-end, to many new things, and methods which i never seen before, but it was a great expereance to do offline first app
+- Service Worker at all surpriced me. And working with cache and indexDb too. 
+- I need more expereince to fully understand how use that all matereal in real applications...
 
 ![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
 
