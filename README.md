@@ -79,4 +79,11 @@
 
 ![Object Oriented JS screeenshot](/task_06/object-oriented-javascript.png)
 
+## Task 7 ##
+1. Offline Web Applications
+- it was hard for me to undestend OOP in the beginning. all information was new for me
+- understanding how `this` define in the code, and how work `extend` and `Object.create()`
+- I'll read more information about OOP for better understanding this fundamental principles...
+
+![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
 
