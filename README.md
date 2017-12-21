@@ -88,5 +88,10 @@
 ![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
 
 ## Task 8 ##
+1. Memory Pair Game
 - That was ineresting task for practicing in JS. I learned how shuffle array and how generate html from js.
-[Memory - Pair Game](https://turchak.github.io/Memory-Game/dist/)
+
+![Memory Pair Game screeenshot](/task_08/memory-pair-game.png)
+
+[Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/dist/)
+[Memory - Pair Game (GitHub Repo)](https://github.com/turchak/memory-pair-game)
