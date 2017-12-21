@@ -87,3 +87,6 @@
 
 ![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
 
+## Task 8 ##
+- That was ineresting task for practicing in JS. I learned how shuffle array and how generate html from js.
+[Memory - Pair Game](https://turchak.github.io/Memory-Game/dist/)
