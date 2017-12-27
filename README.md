@@ -93,5 +93,5 @@
 
 ![Memory Pair Game screeenshot](/task_08/memory-pair-game.png)
 
-[Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/dist/)
+[Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/)
 [Memory - Pair Game (GitHub Repo)](https://github.com/turchak/memory-pair-game)
