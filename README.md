@@ -42,7 +42,7 @@
 - Before I did't know about `git rebase` and `git push -f`
 - Things before this line, which help me with collaboration..
 
-![GitHub & Collaboration screeenshot](/task_02/github-collaboration.png)
+![GitHub & Collaboration screenshot](/task_02/github-collaboration.png)
 
 
 ## Task 3 ##
@@ -51,7 +51,7 @@
 - Udacity Feedback Chrome Extension surprised me:)
 - will use interesting links [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/index.html) and [HTML Style Guide](http://udacity.github.io/frontend-nanodegree-styleguide/css.html)
 
-![HTML and CSS Syntax screeenshot](/task_03/html-and-css-syntax.png)
+![HTML and CSS Syntax screenshot](/task_03/html-and-css-syntax.png)
 
 ## Task 4 ##
 1. Responsive Web Design Fundamentals
@@ -59,7 +59,7 @@
 - use android dev mode on device surprised me
 - I'll use responsive patters, devtools and flexbox..
 
-![Responsive Web Design Fundamentals screeenshot](/task_04/responsive-web-design-fundamentals.png)
+![Responsive Web Design Fundamentals screenshot](/task_04/responsive-web-design-fundamentals.png)
 
 ## Task 5 ##
 1. Intro to JS
@@ -67,7 +67,7 @@
 - hoisting really surprised me
 - now i really increased my skill in js, and wanna use almost all in practice...
 
-![Intro to JS screeenshot](/task_05/intro-to-js.png)
+![Intro to JS screenshot](/task_05/intro-to-js.png)
 
 ## Task 6 ##
 1. Object Oriented JS
@@ -77,7 +77,7 @@
 
 [Final Game](https://turchak.github.io/frontend-nanodegree-arcade-game/). 
 
-![Object Oriented JS screeenshot](/task_06/object-oriented-javascript.png)
+![Object Oriented JS screenshot](/task_06/object-oriented-javascript.png)
 
 ## Task 7 ##
 1. Offline Web Applications
@@ -85,15 +85,15 @@
 - Service Worker at all surpriced me. And working with cache and indexDb too 
 - I need more expereince to fully understand how use that all matereal in real applications...
 
-![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
+![Offline Web Applications screenshot](/task_07/offline-web-applications.png)
 
 ## Task 8 ##
 1. Memory Pair Game
 - That was ineresting task for practicing in JS. I learned how shuffle array and how generate html from js.
 
-![Memory Pair Game screeenshot](/task_08/memory-pair-game.png)
+![Memory Pair Game screenshot](/task_08/memory-pair-game.png)
 
-[Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/)
+[Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/)<br />
 [Memory - Pair Game (GitHub Repo)](https://github.com/turchak/memory-pair-game)
 
 ## Task 9 ##
@@ -102,4 +102,4 @@
 - using dev tools on mobile surprised me
 - I'll use this information for make app with good perfomance...
 
-![Website Performance Optimization screeenshot](/task_09/website-performance-optimization.png)
+![Website Performance Optimization screenshot](/task_09/website-performance-optimization.png)
