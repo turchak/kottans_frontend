@@ -82,7 +82,7 @@
 ## Task 7 ##
 1. Offline Web Applications
 - that was difficult part of my learning front-end, to many new things, and methods which i never seen before, but it was a great expereance to do offline first app
-- Service Worker at all surpriced me. And working with cache and indexDb too. 
+- Service Worker at all surpriced me. And working with cache and indexDb too 
 - I need more expereince to fully understand how use that all matereal in real applications...
 
 ![Offline Web Applications screeenshot](/task_07/offline-web-applications.png)
@@ -95,3 +95,11 @@
 
 [Memory - Pair Game (GitHub Pages)](https://turchak.github.io/memory-pair-game/)
 [Memory - Pair Game (GitHub Repo)](https://github.com/turchak/memory-pair-game)
+
+## Task 9 ##
+1. Website Performance Optimization
+- interesting information about how browsers rendering html, css and js
+- using dev tools on mobile surprised me
+- I'll use this information for make app with good perfomance...
+
+![Website Performance Optimization screeenshot](/task_09/website-performance-optimization.png)
