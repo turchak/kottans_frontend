@@ -103,3 +103,13 @@
 - I'll use this information for make app with good perfomance...
 
 ![Website Performance Optimization screenshot](/task_09/website-performance-optimization.png)
+
+## Task 10 ##
+1. In process
+[Wather-App (GitHub Pages)](https://turchak.github.io/weather-app/)<br />
+[Wather-App (GitHub Repo)](https://github.com/turchak/weather-app)
+
+## Task 11 ##
+1. HTML5 valid form
+[Wather-App (GitHub Pages)](https://turchak.github.io/weather-app/)<br />
+[Wather-App (GitHub Repo)](https://github.com/turchak/weather-app)
